@@ -1,0 +1,128 @@
+[
+  {
+    "raw_feature_name": "Age",
+    "display_name": "Age",
+    "feature_group": "clinical",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 1,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "ALP",
+    "display_name": "ALP",
+    "feature_group": "clinical",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 2,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "Monocyte",
+    "display_name": "Monocyte",
+    "feature_group": "clinical",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 3,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "Neutrophil",
+    "display_name": "Neutrophil",
+    "feature_group": "clinical",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 4,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "MLR",
+    "display_name": "MLR",
+    "feature_group": "clinical",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 5,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-LLH_glszm_GrayLevelNonUniformity",
+    "display_name": "wavelet-LLH glszm GrayLevelNonUniformity",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 6,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-LHL_glszm_SizeZoneNonUniformityNormalized",
+    "display_name": "wavelet-LHL glszm SizeZoneNonUniformityNormalized",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 7,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-HHH_glcm_ClusterShade",
+    "display_name": "wavelet-HHH glcm ClusterShade",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 8,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-HHH_glszm_GrayLevelNonUniformityNormalized",
+    "display_name": "wavelet-HHH glszm GrayLevelNonUniformityNormalized",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 9,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-HHH_glszm_SizeZoneNonUniformityNormalized",
+    "display_name": "wavelet-HHH glszm SizeZoneNonUniformityNormalized",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 10,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "wavelet-HHH_glszm_ZoneVariance",
+    "display_name": "wavelet-HHH glszm ZoneVariance",
+    "feature_group": "radiomics",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 11,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "Feature_508",
+    "display_name": "Feature 508",
+    "feature_group": "deep_learning",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 12,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "Feature_738",
+    "display_name": "Feature 738",
+    "feature_group": "deep_learning",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 13,
+    "description": "Locked model input feature."
+  },
+  {
+    "raw_feature_name": "Feature_879",
+    "display_name": "Feature 879",
+    "feature_group": "deep_learning",
+    "expected_type": "numeric",
+    "required": true,
+    "input_order": 14,
+    "description": "Locked model input feature."
+  }
+]

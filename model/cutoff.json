@@ -1,1 +1,6 @@
-
+{
+  "cutoff": 0.357,
+  "classification_rule": "predicted probability >= 0.357 classified as high risk; predicted probability < 0.357 classified as low risk",
+  "high_risk_rule": "predicted probability >= 0.357",
+  "low_risk_rule": "predicted probability < 0.357"
+}
