@@ -1,4 +1,2 @@
 Age,ALP,Monocyte,Neutrophil,MLR,wavelet-LLH_glszm_GrayLevelNonUniformity,wavelet-LHL_glszm_SizeZoneNonUniformityNormalized,wavelet-HHH_glcm_ClusterShade,wavelet-HHH_glszm_GrayLevelNonUniformityNormalized,wavelet-HHH_glszm_SizeZoneNonUniformityNormalized,wavelet-HHH_glszm_ZoneVariance,Feature_508,Feature_738,Feature_879
 18.0,160.0,0.42,5.2,0.28,0.72,1.85,-0.65,1.25,0.18,0.35,0.48,1.1,-0.25
-13.0,95.0,0.25,3.6,0.16,0.3,-0.55,-1.2,0.75,1.05,-0.45,-0.7,-0.95,-1.3
-24.0,210.0,0.58,7.1,0.44,1.15,2.1,0.85,2.4,0.08,0.62,1.35,2.25,0.9
